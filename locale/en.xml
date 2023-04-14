@@ -1,3 +1,4 @@
 <resources>
+    <string name="error.invalid_credentials">Please, check your provided credentials</string>
     <string name="ok">OK</string>
 </resources>
